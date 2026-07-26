@@ -57,7 +57,7 @@ Feel free to connect with me for collaboration or just to say hello! Let's build
   <br />
   <summary><b>⚙️ Tools I use to get stuff done</b></summary>
   <ul>
-    <li><b>Browser:</b> Chrome</li>
+    <li><b>Browser:</b>Brave</li>
     <li><b>Code Editor:</b> VS Code</li>
     <li><b>Version Control:</b> Git & GitHub</li>
   </ul>
